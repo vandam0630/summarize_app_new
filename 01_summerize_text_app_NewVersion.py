@@ -29,7 +29,7 @@ def main():
             st.session_state["OPENAI_API"] = open_apikey
         st.markdown('---')
 
-    st.header("📃요약 프로그램...")
+    st.header("📃요약 프로그램...!!!!!")
     st.markdown('---')
     
     text = st.text_area("요약 할 글을 입력하세요")
